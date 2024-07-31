@@ -1,5 +1,4 @@
 # Agenda-em-Python
-Trabalho parcial 11/09/22
 Este trabalho foi desenvolvido na disciplina de ALGORITMOS, PROGRAMAÇÃO E ESTRUTURA DE DADOS 
 
 Nesta agenda é possível:
